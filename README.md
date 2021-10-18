@@ -1,2 +1,3 @@
 # Game-Of-Life
-The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
+This repo is used for info api.  
+This is the link for the actual repository: https://bit.ly/3kuDNe1
